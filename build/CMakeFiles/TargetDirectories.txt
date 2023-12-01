@@ -1,0 +1,3 @@
+/Users/arthur/GoogleCloud/build/CMakeFiles/quickstart.dir
+/Users/arthur/GoogleCloud/build/CMakeFiles/edit_cache.dir
+/Users/arthur/GoogleCloud/build/CMakeFiles/rebuild_cache.dir
